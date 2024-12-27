@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GitHubPagesDemo",
   "resources": {
-    "hash": "sha256-XUB2g0qVggyM6pnFAEQKO7YfiVe+TlBQGLAswjwDDq0=",
+    "hash": "sha256-WnjyVY6EErclSHPwewjP2KAHq8YPbLXH4VZv4JsDX3c=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.n1sf6xr5tz.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "GitHubPagesDemo.wasm": "sha256-3f7+hZrdTrWKjk/ixoR76zcthxS6BMFsWuRix2K/dc8=",
+      "GitHubPagesDemo.wasm": "sha256-twaf43CuE2olHuZGY1BS5B9kx0gbSiSaR+2T3zwVmVU=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-52B1DeoQIDN1FC0k7TJuVU7l7T2W5hl7sXqeg+jxRY4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-i4VcIJFds6T99+ZR7aJvvC6N4cs5rP3BKix/DW+Wu+Y=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-mq9Bf+1fRF6YC/ro2NPxtoh+szT1wSIzMzJ6FpNjYu8=",
