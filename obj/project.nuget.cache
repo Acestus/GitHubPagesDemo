@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EnqpanzFF/1uoGui4SGaWnRArgc6v9sg5i1bU3e0f+Ft383uKPSjRqE9cZmgHft4zwDnRchcgodjNRRkpFTjMw==",
+  "dgSpecHash": "dp2F0Yvo6pGm2gUeFCCI1beVbFI1rrpBFxyiCL60XOTxuvBjNl7smu9RKdmIqLSLVcvT7K0aKdF5/3GWAac6yA==",
   "success": true,
   "projectFilePath": "/home/acestus/git/GitHubPagesDemo/GitHubPagesDemo.csproj",
   "expectedPackageFiles": [
@@ -29,9 +29,8 @@
     "/home/acestus/.nuget/packages/microsoft.jsinterop/8.0.11/microsoft.jsinterop.8.0.11.nupkg.sha512",
     "/home/acestus/.nuget/packages/microsoft.jsinterop.webassembly/8.0.11/microsoft.jsinterop.webassembly.8.0.11.nupkg.sha512",
     "/home/acestus/.nuget/packages/microsoft.net.illink.tasks/8.0.11/microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
-    "/home/acestus/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.0/microsoft.net.sdk.webassembly.pack.8.0.0.nupkg.sha512",
-    "/home/acestus/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
-    "/home/acestus/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.0/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.0.nupkg.sha512"
+    "/home/acestus/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.11/microsoft.net.sdk.webassembly.pack.8.0.11.nupkg.sha512",
+    "/home/acestus/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

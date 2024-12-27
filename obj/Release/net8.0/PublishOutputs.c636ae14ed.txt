@@ -1,1 +1,0 @@
-/home/acestus/git/GitHubPagesDemo/release/web.config
